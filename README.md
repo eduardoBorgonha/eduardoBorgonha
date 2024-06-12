@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo Borgonha Lopes
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning WEB(HTML, CSS, JS) and Java.
+- 🌱 I’m currently learning Arduino and Python.
 - 📫 How to reach me: @eduardoborgonha on instagram.
 
 <!---
